@@ -22,3 +22,7 @@ Model, üç ardışık Evrişim (Conv2D) ve Pooling (MaxPooling2D) bloğundan ol
 
 ### Görsel Analiz:
 Doğruluk ve kayıp eğrileri görselleştirilmiştir.
+
+
+#### Kaggle Linki:
+https://www.kaggle.com/code/iremcibelek/fruit-vegetable-image-classification
