@@ -27,4 +27,4 @@ Doğruluk ve kayıp eğrileri görselleştirilmiştir.
 #### Kaggle Linki:
 https://www.kaggle.com/code/iremcibelek/fruit-vegetable-image-classification
 
-* .ipynb dosya boyutum 10.3 mb olduğu için GitHub'a yüklemekte sıkıntı yaşadım. Dosya boyutunu küçültmek adına bazı markdown hücrelerini silerek yüklüyorum. Projenin son ve eksiksiz hali Kaggle'daki halidir.
+* .ipynb dosya boyutum 10.3 mb olduğu için GitHub'a yüklemekte sıkıntı yaşadım. Dosya boyutunu küçültmek adına bazı output görsellerini çalıştırmadan yüklüyorum. Projenin son ve eksiksiz hali Kaggle'daki halidir.
